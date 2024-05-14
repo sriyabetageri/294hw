@@ -18,7 +18,6 @@ motorLMF= robot.getDevice("LMF")
 motorLAC= robot.getDevice("LAC")
 motorLAF= robot.getDevice("LAF")
 
-# frequency [Hz]
 f = 0.5;
 
 #y= a * sin(bx+c)+d
